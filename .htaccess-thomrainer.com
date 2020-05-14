@@ -66,8 +66,12 @@ RewriteRule ^/category/facilities/parking/?$ https://churchanswers.com/blog/cate
 RewriteRule ^/category/consulting/pastor-search/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/ [R=301,NC,L]
 RewriteRule ^/category/leadership/pastoral/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
 RewriteRule ^/category/church-revitalization/plantingreplanting/?$ https://churchanswers.com/blog/category/revitalize/church-adoption/ [R=301,NC,L]
-RewriteRule ^/category/leadership/pastoral/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
-
+RewriteRule ^/category/podcasts/?$ https://churchanswers.com/podcasts/ [R=301,NC,L]
+RewriteRule ^/category/pray-for/?$ https://churchanswers.com/pray/ [R=301,NC,L]
+RewriteRule ^/category/publishing/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
+RewriteRule ^/category/rainer-report/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/resources/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
+RewriteRule ^/category/discipleship/retention/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
 
 
 # Book Redirects
