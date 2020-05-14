@@ -46,7 +46,12 @@ RewriteRule ^/category/generations/?$ https://churchanswers.com/blog/ [R=301,NC,
 RewriteRule ^/category/guests/gifts/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
 RewriteRule ^/category/church-finance/giving/?$ https://churchanswers.com/blog/category/lead/administration-and-finance/ [R=301,NC,L]
 RewriteRule ^/category/guests/greeters/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
-RewriteRule ^/category/guests/greeters/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
+RewriteRule ^/category/discipleship/groups/?$ https://churchanswers.com/blog/category/grow/discipleship/ [R=301,NC,L]
+RewriteRule ^/category/guest-blogs/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/guests/guest-cards/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
+
+
+
 
 
 # Book Redirects
