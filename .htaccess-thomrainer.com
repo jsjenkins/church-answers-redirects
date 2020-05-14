@@ -40,7 +40,13 @@ RewriteRule ^/category/church-revitalization/established-churches/?$ https://chu
 RewriteRule ^/category/evangelism/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
 RewriteRule ^/category/facilities/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
 RewriteRule ^/category/family/?$ https://churchanswers.com/blog/category/lead/family/ [R=301,NC,L]
-
+RewriteRule ^/category/freebies/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/generation-z/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/generations/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/guests/gifts/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
+RewriteRule ^/category/church-finance/giving/?$ https://churchanswers.com/blog/category/lead/administration-and-finance/ [R=301,NC,L]
+RewriteRule ^/category/guests/greeters/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
+RewriteRule ^/category/guests/greeters/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
 
 
 # Book Redirects
