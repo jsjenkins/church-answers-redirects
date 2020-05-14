@@ -5,7 +5,7 @@ RewriteRule ^/about/?$ https://churchanswers.com/about/ [R=301,NC,L]
 RewriteRule ^/terms-of-use/?$ https://churchanswers.com/privacy-policy/ [R=301,NC,L]
 RewriteRule ^/podcast-2/?$ https://churchanswers.com/podcasts/rainer-on-leadership/ [R=301,NC,L]
 RewriteRule ^/revitalize-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
-# Blog Redirects
+# Blog Category Redirects
 RewriteRule ^/blog/?$ https://churchanswers.com/blog/ [R=301,NC,L]
 RewriteRule ^/category/church-communications/announcements/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
 RewriteRule ^/category/guests/assimilation/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
@@ -105,4 +105,3 @@ RewriteRule ^/books-by-rainer/the-everychurch-guide-to-growth/?$ https://churcha
 RewriteRule ^/books-by-rainer/the-bridger-generation/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/books-by-rainer/effective-evangelistic-churches/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/books-by-rainer/the-book-of-church-growth/?$ https://churchanswers.com/books/ [R=301,NC,L]
-# Blog Category Redirects
