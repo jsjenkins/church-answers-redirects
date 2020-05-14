@@ -2,6 +2,7 @@ RewriteEngine On
 RewriteBase /
 
 RewriteRule ^/about/?$ https://churchanswers.com/about/ [R=301,NC,L]
+RewriteRule ^/terms-of-use/?$ https://churchanswers.com/about/ [R=301,NC,L]
 RewriteRule ^/podcast-2/?$ https://churchanswers.com/podcasts/rainer-on-leadership/ [R=301,NC,L]
 RewriteRule ^/revitalize-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
 # Blog Redirects
@@ -10,6 +11,7 @@ RewriteRule ^/category/church-communications/announcements/?$ https://churchansw
 RewriteRule ^/category/guests/assimilation/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
 RewriteRule ^/category/leadership/bi-vocational/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
 RewriteRule ^/category/discipleship/bible/?$ https://churchanswers.com/blog/category/grow/discipleship/ [R=301,NC,L]
+RewriteRule ^/category/generations/boomers/?$ https://churchanswers.com/blog [R=301,NC,L]
 RewriteRule ^/category/church-finance/budgets/?$ https://churchanswers.com/blog/category/lead/administration-and-finance/ [R=301,NC,L]
 RewriteRule ^/category/church-communications/bulletins/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
 RewriteRule ^/category/church-revitalization/change/?$ https://churchanswers.com/blog/category/grow/discipleship/ [R=301,NC,L]
