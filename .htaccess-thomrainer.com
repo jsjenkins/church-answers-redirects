@@ -80,13 +80,12 @@ RewriteRule ^/category/sam-rainer/?$ https://churchanswers.com/blog/author/samra
 RewriteRule ^/category/church-revitalization/scrappy-church/?$ https://churchanswers.com/blog/category/revitalize/smaller-churches-and-communities/ [R=301,NC,L]
 RewriteRule ^/category/facilities/signage/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
 RewriteRule ^/category/church-communications/social-media/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
-RewriteRule ^/category/leadership/tenure/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/[R=301,NC,L]
-RewriteRule ^/category/sam-rainer/?$ https://churchanswers.com/blog/author/samrainer/ [R=301,NC,L]
-
-
-
-
-
+RewriteRule ^/category/leadership/tenure/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/ [R=301,NC,L]
+RewriteRule ^/category/transition/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/ [R=301,NC,L]
+RewriteRule ^/category/uncategorized/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/consulting/virtual-staffing/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/ [R=301,NC,L]
+RewriteRule ^/category/church-communications/websites/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
+RewriteRule ^/category/worship/?$ https://churchanswers.com/blog/category/grow/worship/ [R=301,NC,L]
 # Book Redirects
 RewriteRule ^/books/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/scrappychurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
