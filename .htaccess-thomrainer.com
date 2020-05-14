@@ -20,6 +20,17 @@ RewriteRule ^/category/church-administration/?$ https://churchanswers.com/blog/c
 RewriteRule ^/category/church-answers/?$ https://churchanswers.com/blog [R=301,NC,L]
 RewriteRule ^/category/church-attendance/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
 RewriteRule ^/category/church-communications/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
+RewriteRule ^/category/consulting/church-consultant/?$ https://churchanswers.com//blog/category/revitalize/health-and-metrics/ [R=301,NC,L]
+RewriteRule ^/category/church-finance/?$ https://churchanswers.com/blog/category/lead/administration-and-finance/ [R=301,NC,L]
+RewriteRule ^/category/church-fostering/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/church-growth/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
+RewriteRule ^/category/church-members/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
+RewriteRule ^/category/church-revitalization/?$ https://churchanswers.com/blog/category/revitalize/health-and-metrics/ [R=301,NC,L]
+RewriteRule ^/category/church-security/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
+RewriteRule ^/category/church-trends/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/community/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
+RewriteRule ^/category/community/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
+
 
 
 
