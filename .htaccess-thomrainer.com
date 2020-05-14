@@ -2,6 +2,7 @@ RewriteEngine On
 RewriteBase /
 
 RewriteRule ^/about/?$ https://churchanswers.com/about/ [R=301,NC,L]
+# Book Redirects
 RewriteRule ^/books/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/scrappychurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/welcomingchurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
@@ -20,3 +21,4 @@ RewriteRule ^/books-by-rainer/the-everychurch-guide-to-growth/?$ https://churcha
 RewriteRule ^/books-by-rainer/the-bridger-generation/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/books-by-rainer/effective-evangelistic-churches/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/books-by-rainer/the-book-of-church-growth/?$ https://churchanswers.com/books/ [R=301,NC,L]
+# Blog Category Redirects
