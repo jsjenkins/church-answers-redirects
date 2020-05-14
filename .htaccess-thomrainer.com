@@ -29,9 +29,17 @@ RewriteRule ^/category/church-revitalization/?$ https://churchanswers.com/blog/c
 RewriteRule ^/category/church-security/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
 RewriteRule ^/category/church-trends/?$ https://churchanswers.com/blog/ [R=301,NC,L]
 RewriteRule ^/category/community/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
-RewriteRule ^/category/community/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
-
-
+RewriteRule ^/category/facilities/construction/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
+RewriteRule ^/category/consulting/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/leadership/critics-and-bullies/?$ https://churchanswers.com/blog/category/lead/conflict-and-people-problems/ [R=301,NC,L]
+RewriteRule ^/category/current-events/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/church-revitalization/death/?$ https://churchanswers.com/blog/category/revitalize/health-and-metrics/ [R=301,NC,L]
+RewriteRule ^/category/digital-church/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
+RewriteRule ^/category/discipleship/?$ https://churchanswers.com/blog/category/grow/discipleship/ [R=301,NC,L]
+RewriteRule ^/category/church-revitalization/established-churches/?$ https://churchanswers.com/blog/category/revitalize/health-and-metrics/ [R=301,NC,L]
+RewriteRule ^/category/evangelism/?$ https://churchanswers.com/blog/category/grow/outreach-and-evangelism/ [R=301,NC,L]
+RewriteRule ^/category/facilities/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
+RewriteRule ^/category/family/?$ https://churchanswers.com/blog/category/lead/family/ [R=301,NC,L]
 
 
 
