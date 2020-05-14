@@ -6,7 +6,14 @@ RewriteRule ^/podcast-2/?$ https://churchanswers.com/podcasts/rainer-on-leadersh
 RewriteRule ^/revitalize-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
 # Blog Redirects
 RewriteRule ^/blog/?$ https://churchanswers.com/blog/ [R=301,NC,L]
-RewriteRule ^/blog/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/category/church-communications/announcements/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
+RewriteRule ^/category/guests/assimilation/?$ https://churchanswers.com/blog/category/grow/membership-and-assimilation/ [R=301,NC,L]
+RewriteRule ^/category/leadership/bi-vocational/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
+
+
+
+
+
 # Book Redirects
 RewriteRule ^/books/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/scrappychurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
