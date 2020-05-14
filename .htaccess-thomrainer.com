@@ -2,6 +2,11 @@ RewriteEngine On
 RewriteBase /
 
 RewriteRule ^/about/?$ https://churchanswers.com/about/ [R=301,NC,L]
+RewriteRule ^/podcast-2/?$ https://churchanswers.com/podcasts/rainer-on-leadership/ [R=301,NC,L]
+RewriteRule ^/revitalize-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
+# Blog Redirects
+RewriteRule ^/blog/?$ https://churchanswers.com/blog/ [R=301,NC,L]
+RewriteRule ^/blog/?$ https://churchanswers.com/blog/ [R=301,NC,L]
 # Book Redirects
 RewriteRule ^/books/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^/scrappychurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
