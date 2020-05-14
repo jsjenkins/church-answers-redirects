@@ -72,6 +72,19 @@ RewriteRule ^/category/publishing/?$ https://churchanswers.com/blog/category/lea
 RewriteRule ^/category/rainer-report/?$ https://churchanswers.com/blog/ [R=301,NC,L]
 RewriteRule ^/category/resources/?$ https://churchanswers.com/blog/category/lead/preaching/ [R=301,NC,L]
 RewriteRule ^/category/discipleship/retention/?$ https://churchanswers.com/blog/category/grow/first-impressions/ [R=301,NC,L]
+RewriteRule ^/category/revitalize-and-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
+RewriteRule ^/category/rural-churches/?$ https://churchanswers.com/blog/category/revitalize/smaller-churches-and-communities/ [R=301,NC,L]
+RewriteRule ^/category/facilities/sacred-cows/?$ https://churchanswers.com/blog/category/lead/conflict-and-people-problems/ [R=301,NC,L]
+RewriteRule ^/category/church-finance/salaries/?$ https://churchanswers.com/blog/category/lead/administration-and-finance/ [R=301,NC,L]
+RewriteRule ^/category/sam-rainer/?$ https://churchanswers.com/blog/author/samrainer/ [R=301,NC,L]
+RewriteRule ^/category/church-revitalization/scrappy-church/?$ https://churchanswers.com/blog/category/revitalize/smaller-churches-and-communities/ [R=301,NC,L]
+RewriteRule ^/category/facilities/signage/?$ https://churchanswers.com/blog/category/grow/facilities/ [R=301,NC,L]
+RewriteRule ^/category/church-communications/social-media/?$ https://churchanswers.com/blog/category/grow/communications/ [R=301,NC,L]
+RewriteRule ^/category/leadership/tenure/?$ https://churchanswers.com/blog/category/lead/staff-and-organizational-issues/[R=301,NC,L]
+RewriteRule ^/category/sam-rainer/?$ https://churchanswers.com/blog/author/samrainer/ [R=301,NC,L]
+
+
+
 
 
 # Book Redirects
