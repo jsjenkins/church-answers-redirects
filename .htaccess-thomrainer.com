@@ -2,7 +2,7 @@ RewriteEngine On
 RewriteBase /
 
 RewriteRule ^/about/?$ https://churchanswers.com/about/ [R=301,NC,L]
-RewriteRule ^/terms-of-use/?$ https://churchanswers.com/about/ [R=301,NC,L]
+RewriteRule ^/terms-of-use/?$ https://churchanswers.com/privacy-policy/ [R=301,NC,L]
 RewriteRule ^/podcast-2/?$ https://churchanswers.com/podcasts/rainer-on-leadership/ [R=301,NC,L]
 RewriteRule ^/revitalize-replant/?$ https://churchanswers.com/podcasts/revitalize-and-replant/ [R=301,NC,L]
 # Blog Redirects
