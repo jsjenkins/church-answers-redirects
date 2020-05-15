@@ -3,6 +3,7 @@ RewriteBase /
 
 RewriteRule ^login/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
 RewriteRule ^preferred/?$ https://churchanswers.com/preferred-providers/ [R=301,NC,L]
+RewriteRule ^contact/?$ https://churchanswers.com/contact/ [R=301,NC,L]
 # Products
 RewriteRule ^prayandgo/?$ https://churchanswers.com/solutions/courses/pray-and-go/ [R=301,NC,L]
 RewriteRule ^church-member/?$ https://churchanswers.com/solutions/courses/i-am-a-church-member/ [R=301,NC,L]
