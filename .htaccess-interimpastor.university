@@ -5,5 +5,5 @@ RewriteRule ^about/?$ https://churchanswers.com/solutions/certifications/interim
 RewriteRule ^who-is-this-for/?$ https://churchanswers.com/solutions/certifications/interim-pastor-certification/ [R=301,NC,L]
 RewriteRule ^courses/?$ https://churchanswers.com/solutions/certifications/interim-pastor-certification/ [R=301,NC,L]
 RewriteRule ^get-started/?$ https://churchanswers.com/solutions/certifications/interim-pastor-certification/ [R=301,NC,L]
-RewriteRule ^/find-an-interim-pastor/?$ https://churchanswers.com/find/interim-pastor/ [R=301,NC,L]
+RewriteRule ^find-an-interim-pastor/?$ https://churchanswers.com/find/interim-pastor/ [R=301,NC,L]
 RewriteRule ^wp-login.php$ https://churchanswers.com/dashboard/ [R=301,NC,L]
