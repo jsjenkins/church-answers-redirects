@@ -1,4 +1,9 @@
 RewriteEngine On
 RewriteBase /
 
-RewriteRule ^redirect-from/?$ https://churchanswers.com/redirect-to/ [R=301,NC,L]
+RewriteRule ^about/?$ https://churchanswers.com/solutions/certifications/church-consultation-university/ [R=301,NC,L]
+RewriteRule ^who-is-this-for/?$ https://churchanswers.com/solutions/certifications/church-consultation-university/ [R=301,NC,L]
+RewriteRule ^courses/?$ https://churchanswers.com/solutions/certifications/church-consultation-university/ [R=301,NC,L]
+RewriteRule ^get-started/?$ https://churchanswers.com/solutions/certifications/church-consultation-university/ [R=301,NC,L]
+RewriteRule ^find-a-certified-consultant/?$ https://churchanswers.com/find/church-consultant/ [R=301,NC,L]
+RewriteRule ^wp-login.php$ https://churchanswers.com/dashboard/ [R=301,NC,L]
