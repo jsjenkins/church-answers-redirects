@@ -11,3 +11,9 @@ RewriteRule ^consulting/?$ https://churchanswers.com/solutions/consulting/ [R=30
 RewriteRule ^micros2020/?$ https://churchanswers.com/solutions/events/ [R=301,NC,L]
 RewriteRule ^contact/?$ https://churchanswers.com/contact/ [R=301,NC,L]
 RewriteRule ^login/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
+# Resources
+RewriteRule ^resources/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
+RewriteRule ^church-answers-monthly/deeper-dive/?$ https://churchanswers.com/course/deeper-dive/ [R=301,NC,L]
+RewriteRule ^member-class/?$ https://churchanswers.com/course/eight-steps-to-creating-a-dynamic-and-highly-beneficial-new-members-class/ [R=301,NC,L]
+RewriteRule ^double-number-guests-return-church/?$ https://churchanswers.com/course/doubling-your-returning-guest-attendance/ [R=301,NC,L]
+RewriteRule ^resources/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
