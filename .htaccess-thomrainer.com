@@ -96,6 +96,7 @@ RewriteRule ^category/top-posts/?$ https://churchanswers.com/blog [R=301,NC,L]
 RewriteRule ^category/trends/?$ https://churchanswers.com/blog [R=301,NC,L]
 RewriteRule ^category/worship-guru/?$ https://churchanswers.com/blog/category/grow/worship/ [R=301,NC,L]
 RewriteRule ^category/young-influencers/?$ https://churchanswers.com/blog [R=301,NC,L]
+RewriteRule ^category/revitalize-2020/?$ https://churchanswers.com/blog [R=301,NC,L]
 # Book Redirects
 RewriteRule ^books/?$ https://churchanswers.com/books/ [R=301,NC,L]
 RewriteRule ^scrappychurch/?$ https://churchanswers.com/books/ [R=301,NC,L]
