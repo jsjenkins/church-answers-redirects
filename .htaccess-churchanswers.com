@@ -18,3 +18,4 @@ RewriteRule ^member-class/?$ https://churchanswers.com/course/eight-steps-to-cre
 RewriteRule ^double-number-guests-return-church/?$ https://churchanswers.com/course/doubling-your-returning-guest-attendance/ [R=301,NC,L]
 RewriteRule ^retaining-guest-more-effectively/?$ https://churchanswers.com/course/how-churches-can-retain-guests-more-effectively/ [R=301,NC,L]
 RewriteRule ^church-answers-monthly/breaking-barriers/?$ https://churchanswers.com/solutions/courses/free-courses/breaking-barriers/ [R=301,NC,L]
+RewriteRule ^monthly/?$ https://churchanswers.com/course/2020-virtual-staff-meetings/ [R=301,NC,L]
