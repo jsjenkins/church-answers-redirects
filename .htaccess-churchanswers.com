@@ -1,21 +1,21 @@
 RewriteEngine On
 RewriteBase /
 
-RewriteRule ^church-answers-monthly/?$ https://churchanswers.com/about/ [R=301,NC,L]
-RewriteRule ^subscribe/?$ https://churchanswers.com/join/ [R=301,NC,L]
-RewriteRule ^silver/?$ https://churchanswers.com/join/ [R=301,NC,L]
-RewriteRule ^platinum-inquiry/?$ https://churchanswers.com/solutions/coaching/ [R=301,NC,L]
-RewriteRule ^coaching/?$ https://churchanswers.com/solutions/coaching/ [R=301,NC,L]
-RewriteRule ^cohorts/?$ https://churchanswers.com/solutions/coaching/ [R=301,NC,L]
-RewriteRule ^consulting/?$ https://churchanswers.com/solutions/consulting/ [R=301,NC,L]
-RewriteRule ^micros2020/?$ https://churchanswers.com/solutions/events/ [R=301,NC,L]
-RewriteRule ^contact/?$ https://churchanswers.com/contact/ [R=301,NC,L]
-RewriteRule ^login/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
+301,all,/church-answers-monthly/,https://churchanswers.com/about/
+301,all,/subscribe/,https://churchanswers.com/join/
+301,all,/silver/,https://churchanswers.com/join/
+301,all,/platinum-inquiry/,https://churchanswers.com/solutions/coaching/
+301,all,/coaching/,https://churchanswers.com/solutions/coaching/
+301,all,/cohorts/,https://churchanswers.com/solutions/coaching/
+301,all,/consulting/,https://churchanswers.com/solutions/consulting/
+301,all,/micros2020/,https://churchanswers.com/solutions/events/
+301,all,/contact/,https://churchanswers.com/contact/
+301,all,/login/,https://churchanswers.com/dashboard/
 # Resources
-RewriteRule ^resources/?$ https://churchanswers.com/dashboard/ [R=301,NC,L]
-RewriteRule ^church-answers-monthly/deeper-dive/?$ https://churchanswers.com/course/deeper-dive/ [R=301,NC,L]
-RewriteRule ^member-class/?$ https://churchanswers.com/course/eight-steps-to-creating-a-dynamic-and-highly-beneficial-new-members-class/ [R=301,NC,L]
-RewriteRule ^double-number-guests-return-church/?$ https://churchanswers.com/course/doubling-your-returning-guest-attendance/ [R=301,NC,L]
-RewriteRule ^retaining-guest-more-effectively/?$ https://churchanswers.com/course/how-churches-can-retain-guests-more-effectively/ [R=301,NC,L]
-RewriteRule ^church-answers-monthly/breaking-barriers/?$ https://churchanswers.com/solutions/courses/free-courses/breaking-barriers/ [R=301,NC,L]
-RewriteRule ^monthly/?$ https://churchanswers.com/course/2020-virtual-staff-meetings/ [R=301,NC,L]
+301,all,/resources/,https://churchanswers.com/dashboard/
+301,all,/church-answers-monthly/deeper-dive/,https://churchanswers.com/course/deeper-dive/
+301,all,/member-class/,https://churchanswers.com/course/eight-steps-to-creating-a-dynamic-and-highly-beneficial-new-members-class/
+301,all,/double-number-guests-return-church/,https://churchanswers.com/course/doubling-your-returning-guest-attendance/
+301,all,/retaining-guest-more-effectively/,https://churchanswers.com/course/how-churches-can-retain-guests-more-effectively/
+301,all,/church-answers-monthly/breaking-barriers/,https://churchanswers.com/solutions/courses/free-courses/breaking-barriers/
+301,all,/monthly/,https://churchanswers.com/course/2020-virtual-staff-meetings/
