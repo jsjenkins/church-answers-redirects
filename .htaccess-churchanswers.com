@@ -19,3 +19,4 @@ RewriteBase /
 301,all,/retaining-guest-more-effectively/,https://churchanswers.com/course/how-churches-can-retain-guests-more-effectively/
 301,all,/church-answers-monthly/breaking-barriers/,https://churchanswers.com/solutions/courses/free-courses/breaking-barriers/
 301,all,/monthly/,https://churchanswers.com/course/2020-virtual-staff-meetings/
+301,all,/know-your-community/,https://churchanswers.com/solutions/tools/know-your-community/know-your-community/
